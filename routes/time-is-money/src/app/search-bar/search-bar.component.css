@@ -1,0 +1,22 @@
+p{
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+button{
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+input{
+  text-align: center;
+}
+
+
