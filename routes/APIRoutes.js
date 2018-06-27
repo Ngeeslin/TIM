@@ -5,7 +5,7 @@ const openWeather = require("openweathermap-node");
 
 
 var googleMapsClient = require('@google/maps').createClient({
-    key: 'AIzaSyBcBD2BP8NkhzMJw-RUgUpMOGeBfpNoNRU'
+    key: //ommitted
 });
 var googleDistanceClient = require('google-distance-matrix');
 googleDistanceClient.key(//ommitted);
@@ -17,7 +17,7 @@ var uber = new Uber({
 });
 const weather = new openWeather(
     {
-        APPID: ,//omitted
+        APPID: ,
         units: "imperial"
     }
 );
